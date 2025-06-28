@@ -178,3 +178,5 @@ docs/site
 
 # Claude Code
 .claude
+examples/python/snippets/streaming/adk-streaming-ws/app/.env
+examples/python/snippets/streaming/adk-streaming-ws/app/.env
